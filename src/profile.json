@@ -1,0 +1,20 @@
+{
+  "name": "John Doe",
+  "role": "Frontend Developer",
+  "social": [
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/rajasegar"
+    },
+    {
+      "name": "X",
+      "url": "https://twitter.com"
+    }
+   
+  ],
+  "bio": "My name is John Doe. I am  a Fullstack architect in Facebook. I have close to 10 years of experience. I curently live in Mumbai. I am actively looking for a job in fintech domain. My core skills are Java, Springboot, JavaScript, React, and Docker. I have worked in companies like Facebook, Google, Netflix and Amazon. I have written blogs and articles about fullstack development in Dev.to. I studied B.E in Anna University. I have been working with Facebook for more than 5 years. My last job is with Facebook, Banglore. My first job is with Amazon, Mumbai. My area of interest are Micro-Services, Kubernetes,  and Docker. My mail id is johndoe@gmail.com. My mobile number is 123456789. My current CTC is 25 lacs per annum. My expected CTC is 35 lacs."
+}
